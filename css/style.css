@@ -1,0 +1,131 @@
+.bgimg{
+	background-image: url(../images/03image.gif);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 1350px;
+	height:660px;
+
+}
+.headerset{
+	padding-top: 290px;
+	box-sizing: border-box;
+}
+.headerset h2{
+	font-size: 52px;
+}
+
+.headerset h1{
+	font-size: 62px;
+	font-weight: bold;
+}
+/*--------About ME---------*/
+.aboutme{
+	padding: 80px 0px 60px;
+	
+ 
+}
+
+.aboutme h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.aboutme p{
+	padding: 20px 0px 10px;
+}
+
+/*-----------portfolio ---------------*/
+
+.portfolio{
+	padding:50px 0px 50px;
+	background-color: #3399ff
+
+}
+
+.portfolio h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.card{
+	margin-top: 40px;
+}
+.row car-img{
+	width: 100%
+	height:auto;
+}
+
+
+/*-------------Abilities------------------*/
+
+.abilities{
+	padding: 20px 0 50px;
+}
+
+.abilities h1{
+	font-weight: bold;
+	font-size: 60px;
+}
+
+/*-------Footer-----------*/
+
+.footer{
+	height: 50px;
+}
+
+.footer h1{
+	line-height: 50px;
+}
+
+
+/*---------------Contact US ---------------------*/
+
+body{
+	padding: 0px 0 0px;
+	width:100%;
+	height: auto;
+	font-family: 'Roboto Condensed', sans-serif;
+	tex
+	
+}
+
+
+h1,h2,h3 {
+	margin:0 0 35px 0;
+	font-family: 'Patua One', cursive;
+	text-transform: uppercase;
+	letter-spacing:1px;
+}
+
+p{
+	margin:0 0 25px;
+	font-size:18px;
+	line-height:1.6em;
+	margin-top: 2px;
+}
+a{
+	color:#26a5d3;
+}
+a:hover,a:focus{
+	text-decoration:none;
+	color:#26a5d3;
+}
+
+#contact{
+	background:#333333;
+	color:#f4f4f4;
+	padding-bottom: 80px;
+	align-content: center !important;
+}
+
+textarea.form-control{
+    height:100px;
+}
+
+.content-section{
+	padding: 50px 0 50px;
+}
+
+.contact-section{
+	align-content: center;
+}
